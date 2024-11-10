@@ -1,0 +1,3 @@
+module BOOKSTORE_OAUTH-API
+
+go 1.23.1
